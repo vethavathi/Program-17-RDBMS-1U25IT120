@@ -1,0 +1,6 @@
+TC01 - Check FOR LOOP is used
+TC02 - Check loop starts from 1
+TC03 - Check loop ends at 10
+TC04 - Check DBMS_OUTPUT.PUT_LINE is used
+TC05 - Check numbers 1 to 10 are displayed in order
+TC06 - Check students have not hard-coded ten output statements
